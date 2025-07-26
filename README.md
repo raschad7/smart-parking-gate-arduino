@@ -35,17 +35,3 @@ See [`/docs/report.pdf`](./docs/report.pdf) for system architecture, testing, an
 
 See [`/Arduino_Code/smart_parking.ino`](./Arduino_Code/smart_parking.ino)
 
----
-
-### 🏁 To Upload
-
-After organizing this folder:
-
-```bash
-cd car-parking-disabled
-git init
-git add .
-git commit -m "Initial commit - Smart Car Parking System"
-git remote add origin https://github.com/your-username/car-parking-disabled.git
-git push -u origin main
-```
